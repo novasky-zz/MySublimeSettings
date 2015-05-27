@@ -1,0 +1,28 @@
+{
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+    "detect_indentation": false,
+    "detect_slow_plugins": false,
+    "font_size": 13,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "margin": -1,
+    "rulers":
+    [
+        120,
+        80
+    ],
+    "shift_tab_unindent": true,
+    "tab_size": 4,
+    "theme": "Spacegray.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": false,
+    "ensure_newline_at_eof_on_save": true,
+    "word_wrap": true,
+    "wrap_width": 120
+}
