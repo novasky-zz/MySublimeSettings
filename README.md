@@ -1,2 +1,5 @@
 # MySublimeSettings
-Minhas definições do Sublime Text 2
+Minhas definições para o editor Sublime Text 3
+
+## Dependências
+- Spacegray Theme Package
